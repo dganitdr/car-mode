@@ -1,0 +1,44 @@
+git status
+git add <file name> - adding to staging area
+git reset <file name> - remove from staging area
+git rm <file name>
+git commit -m "message to explain the commit" 
+git add "*.txt"
+
+To push our local repo to the GitHub server we'll need to add a remote repository
+git remote add origin https://github.com/try-git/try_git.git
+Now after declaring our our remote repository - So let's push our local changes to our origin repo (on GitHub).
+
+git push -u origin master // from master to origin
+git diff
+git checkout -- octocat // will go back and remove all changes since last commit for octocat.txt file
+git branch clean_up //  create branch
+git branch // see which brances we have
+got checkout clean_up // switch to this branch
+git rm "*.txt" // rermove files and satge the removel
+git merge clean_up // merge clean_up changes into master (we are on master branch now)
+git branch -d clean_up // delete this branch
+git push  // push to your remote repository
+
+https://github.com/try-git/try_git
+
+
+
+ Check out Customizing Git - Git Hooks for more information.
+Sometimes when you go to pull you may have changes you don't want to commit just yet. One option you have, other than commiting, is to stash the changes.
+
+Use the command 'git stash' to stash your changes, and 'git stash apply' to re-apply your changes after your pull.
+
+from Ting-
+---------
+user: UXWebex
+
+pw: A16BCDlWcXx2
+
+http://git-scm.com/doc
+
+C:\Users\ddrusins>git config --global user.name "Dgan
+
+C:\Users\ddrusins>git config --global user.email ddru
+
+C:\Users\ddrusins>git config --global color.ui true
