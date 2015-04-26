@@ -1,0 +1,57 @@
+FTP:
+ftp://uebackup.webex.com
+u: mbielenb
+p: mbielenb
+
+When starting WinScp -
+uebackup.webex.com
+
+WinSCP -
+FTP option
+Host name - mbielenb
+u: mbielenb
+p: mbielenb
+
+http://uebackup.webex.com/Users/Dganit%20Drusinsky/folderName/index.html
+ftp://uebackup.webex.com/Users/Dganit%20Dusinsky/AV/av-controller.html
+
+Run the project from the ftp site (for testing) -
+http://uebackup.webex.com/Users/Dganit%20Dusinsky/AV/av-controller.html
+http://uebackup.webex.com/Users/Dganit%20Dusinsky/AV/autoStart.html#
+http://uebackup.webex.com/Users/Dganit%20Dusinsky/AV/avVideo.html#
+http://uebackup.webex.com/Users/Dganit%20Dusinsky/AV/autoStartVideo.html#
+
+http://uebackup.webex.com/Users/Dganit%20Dusinsky/AV2/test2.html
+http://uebackup.webex.com/Users/Dganit%20Dusinsky/AV2/whole1.html
+
+http://uebackup.webex.com/Users/Dganit%20Dusinsky/Notes/PB_layout_bottom.php
+
+http://uebackup.webex.com/Users/Dganit%20Dusinsky/av_controller/PB_layout_bottom.php
+http://uebackup.webex.com/Users/Dganit%20Dusinsky/top/PB_layout_bottom.php
+http://uebackup.webex.com/Users/Dganit%20Dusinsky/bottom/PB_layout_bottom.php
+
+Video
+------
+http://uebackup.webex.com/Users/Dganit%20Dusinsky/video/PB_layout_bottom.php
+
+textarea
+--------
+http://uebackup.webex.com/Users/Dganit%20Dusinsky/Examples/textarea.html
+
+Mine
+-----
+p:Dagesh5
+user:dganit
+host:www.dageshm.com
+
+IPAD
+====
+ddrusins, Dagesh004 or the current one for the computer
+
+Server
+------
+http://uxprototype.cisco.com/projects/Oliver_Projects/
+
+https://wxw-svn-001-p.cisco.com:8443/svn/Oliver_Projects/ 
+
+http://uxprototype.cisco.com/projects/oProjects/ 

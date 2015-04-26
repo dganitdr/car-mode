@@ -41,4 +41,4 @@ C:\Users\ddrusins>git config --global user.name "Dgan
 
 C:\Users\ddrusins>git config --global user.email ddru
 
-C:\Users\ddrusins>git config --global color.ui true
+C:\Users\ddrusins>git config --global color.ui true    
