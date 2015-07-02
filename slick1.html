@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Slick Grid</title>
+    <link href="css/reset2.css" rel="stylesheet">
+    <link href="../js/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="../js/slick.grid.css" type="text/css"/>
+    <link rel="stylesheet" href="../js/jquery-ui-1.10.4.custom.min.css" type="text/css"/>
+    <link rel="stylesheet" href="../js/slick.headerbuttons.css" type="text/css"/>
+    <link rel="stylesheet" type="text/css" href="css/slick1.css">
+</head>
+<body ng-app="slick1App" data-ng-controller="slick1Ctrl as slick">
+    <div class="container">
+      <h1 ng-click="deleteMe()">Slick grid</h1>
+      <button type="button" class="btn btn-success" data-ng-click="stopSpin()">Show Grid</button>
+      <my-grider data-ng-show="spin1"></my-grider>
+      <div id="mySpin"></div>
+      <my-dir> </my-dir>
+    </div>
+
+    <script src="../js/jquery-1.11.0.min.js"></script>
+    <script src="../js/jquery-ui-1.10.4.custom.min.js"></script>
+    <script src="../js/jquery.event.drag-2.2.js"></script>
+    <script src= "../js/angular.min.js"></script>
+    <script src="../js/slick.core.js"></script>
+    <script src="../js/slick.grid.js"></script>
+    <script src="../js/slick.headerbuttons.js"></script>
+    <script src="../js/slick.remotemodel.js"></script>
+    <script src="../js/slick.autotooltips.js"></script>
+    <script src="../js/slick.dataview.js"></script>
+    <script src= "js/data.js"></script>
+    <script src= "js/slick1.js"></script>
+    <script src= "js/spin.min.js"></script>
+
+</body>
+</html>

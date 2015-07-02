@@ -1,0 +1,16 @@
+h1 { margin: 30px 0; text-align: center;}
+#myGrid { width: 100%; height: 380px; margin: 30px auto; border: 1px #808080 solid;}
+/*.slick-header-column.ui-state-default { height: 30px;}*/
+.slickgrid, 
+.slickgrid *,
+.slick-header-column {
+
+        box-sizing: content-box;
+        -moz-box-sizing: content-box;
+        -webkit-box-sizing: content-box;
+        -ms-box-sizing: content-box;
+
+}
+#mySpin { width: 50px; height: 50px; position: absolute; top: 50%; left: 50%;}
+.btn.deleteM { padding: 0 15px; font-size: 14px;}
+
